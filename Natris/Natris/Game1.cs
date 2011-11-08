@@ -14,6 +14,7 @@ using Microsoft.Xna.Framework.Media;
 //        *fix canRotate so that it works on the edges. not sure how to do this yet. sigh. might have to make the gameboard have two extra rows and columns that are always 'filled'
 //        *clean up some variable scope or something. 
 //        *add a better game over condition
+//        *optimize the fuck out of everything (especially drawing... redrawing the whole screen is not necessary)
 
 namespace Natris
 {
