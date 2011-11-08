@@ -1,0 +1,8 @@
+*.suo
+*.user
+*.cachefile
+*.contentproj
+/Natris/Natris/bin
+/Natris/Natris/obj
+/Natris/NatrisContent/bin
+/Natris/NatrisContent/obj
